@@ -1,2 +1,2 @@
-# Front-end-web-dev
- front end web development course
+# html-css-course
+ html and css course by dave gray
