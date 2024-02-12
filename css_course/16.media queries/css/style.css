@@ -96,3 +96,8 @@ read the notes.md file*/
     font-size: 1.5rem;
   }
 }
+
+/* @media (prefers-color-scheme: dark) {
+  
+} 
+ here media queries is used to display the elements in dark mode */
