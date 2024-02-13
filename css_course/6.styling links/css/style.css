@@ -16,6 +16,10 @@ a:focus {
   color: hsl(191, 76%, 62%);
   opacity: 0.6;
   background-color: rgb(238, 232, 54);
+
+  /* filter: opacity(0.6);
+  filter: brightness(120%);
+  filter: hue-rotate(180deg); */
 }
 a:active {
   color: red;
